@@ -1,0 +1,29 @@
+ body{
+      font-family: arial;
+
+}
+h1,h2,h3{
+	font-family: orange
+}
+
+h1{
+	color: orange
+	font-weight: 100;
+	letter-spacing: 5px;
+	font-size: 30px;
+}
+
+h2{
+	color: blue;
+	font-family: helvetica;
+	font-size: 24px
+}
+
+p{
+	text-justify: center;
+	color: white;
+
+}
+a{
+	text-decoration: none;
+}
